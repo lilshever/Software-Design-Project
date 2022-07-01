@@ -1,4 +1,4 @@
-# LIBERO (Scenario 1)
+# LIBERO and EXERCISE 
 Partner: Sugarol & Laurea
 
 Instructor: Mr. Agbay
