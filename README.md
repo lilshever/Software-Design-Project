@@ -2,6 +2,6 @@
 
 **` Partner: Sugarol & Laurea`**
 
-**` instructor: Mr. Agbay `**
+**` Instructor: Mr. Agbay `**
 
 - Please click ***"lilshever"*** to view our files/codes
