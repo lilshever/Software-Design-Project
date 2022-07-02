@@ -1,8 +1,7 @@
 # LIBERO and EXERCISE
 
-Partner: **Sugarol & Laurea** :adult: :man:
+**` Partner: Sugarol & Laurea`**
 
-Instructor: **Mr. Agbay** :teacher:
+**` instructor: Mr. Agbay `**
 
-- Please click ***"lilshever"*** to view our files/codes :confetti_ball:
-:tada: :sparkles:
+- Please click ***"lilshever"*** to view our files/codes
