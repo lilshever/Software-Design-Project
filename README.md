@@ -1,6 +1,6 @@
-# LIBERO and EXERCISE 
-Partner: Sugarol & Laurea
+# LIBERO and EXERCISE
+ - Partner: **Sugarol & Laurea**
 
-Instructor: Mr. Agbay
+ - Instructor: **Mr. Agbay**
 
--->>Please click "lilshever" to view our files/codes<<--
+**-->>**Please click ***"lilshever"*** to view our files/codes**<<--**
